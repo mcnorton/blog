@@ -10,15 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: mcnorton@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/mn_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'McNorton'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+author: 'Taejung Lee'
+author_image: "/assets/images/mn.jpg"
 
 paginate:	5
 
