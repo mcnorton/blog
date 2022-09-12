@@ -37,13 +37,13 @@ social:
   - icon:	twitter
     url:	https://twitter.com/mcnorton_
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
+  - icon:	facebook
+    url:	https://facebook.com/mcnorton.fb
+    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
@@ -51,9 +51,9 @@ social:
   - icon:	github
     url:	https://github.com/mcnorton
     desc:	
-    share_url:
-    share_title:
-    share_link:
+#    share_url:
+#    share_title:
+#    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
